@@ -1,0 +1,5 @@
+{
+  "name": "AutoFlow AI Simulator",
+  "description": "A visual AI automation simulation platform. Design workflows with an AI assistant, simulate execution steps, and integrate LLMs and RAG pipelines visually.",
+  "requestFramePermissions": []
+}
